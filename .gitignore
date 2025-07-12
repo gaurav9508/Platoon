@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Virtual Environment
+env/
+venv/
+.venv/
+comicenv/
+
+
+# VSCode settings
+.vscode/
+
+# Streamlit file cache
+.streamlit/
+
+# Output folders
+comic_panels/
+*.png
+
+# System files
+.DS_Store
+Thumbs.db
