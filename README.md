@@ -1,4 +1,4 @@
-# Plotoon: AI powered Story to Comic Genertor
+# PlotToon: AI powered Story to Comic Genertor
 💡 Quick Start
 To run this project:
 
